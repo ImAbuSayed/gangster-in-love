@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gangster-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Gangster in Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-in-love/) |
+| **Get License** | [License this song: Gangster in Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਨੀ ਤੂੰ ਆਜਾ ਮੇਰੇ ਕੋਲ, ਮੇਰੀ ਜਾਨ
+> ਮੇਰੇ ਦਿਲ ਦੀ ਤੂੰ ਬਣ ਜਾ ਰਾਣੀ
+> ਤੇਰੇ ਨੈਣਾਂ ਵਿੱਚ ਡੁੱਬ ਜਾਵਾਂ ਮੈਂ
+> ਸਾਡੀ ਲਿਖੀ ਜਾਵੇ ਨਵੀਂ ਕਹਾਣੀ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
