@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gangster in Love
+
+This log tracks the cryptographic history and versioning for the song **Gangster in Love** (gangster-in-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T19:22:13.413640 | `v1` | `00dc94c3be46e865f79bd73e2b0a88a2470fa49e4d75990d3f175a28163bcc2d` | `9004c0b6638e0a35e5a20ea0e3b64bd33d5208c62b8575f1918ebf2f53e7cdc7` | `2026-05-18_gangster-in-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

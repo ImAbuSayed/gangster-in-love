@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gangster-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Gangster in Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-in-love/) |
+| **Get License** | [Commercial Licensing for Gangster in Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gangster-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `00dc94c3be46e865f79bd73e2b0a88a2470fa49e4d75990d3f175a28163bcc2d` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
